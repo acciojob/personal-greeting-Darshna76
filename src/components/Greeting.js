@@ -9,6 +9,7 @@ let textChange = (event)=>{
 
     return (
         <div>
+            <p>Enter your name:</p>
             <input type = "text" onChange={textChange}></input>
             {
                 greet && 
