@@ -14,7 +14,7 @@ let textChange = (event)=>{
             {
                 greet && 
 
-             <p>Hello {greet}</p>
+             <p>Hello {greet}!</p>
 
             }
             
